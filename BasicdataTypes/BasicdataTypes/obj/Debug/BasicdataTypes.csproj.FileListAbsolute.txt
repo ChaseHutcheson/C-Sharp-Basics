@@ -1,0 +1,16 @@
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.csproj.AssemblyReference.cache
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.exe.config
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.exe
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.pdb
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.exe
+C:\Users\Hutcheson_Chase\source\repos\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.pdb
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.exe.config
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.exe
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\bin\Debug\BasicdataTypes.pdb
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\obj\Debug\BasicDataTypes.csproj.AssemblyReference.cache
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\obj\Debug\BasicDataTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.exe
+C:\Users\Hutcheson_Chase\Source\Repos\ChaseHutcheson\C-Sharp-Basics\BasicdataTypes\BasicdataTypes\obj\Debug\BasicdataTypes.pdb
